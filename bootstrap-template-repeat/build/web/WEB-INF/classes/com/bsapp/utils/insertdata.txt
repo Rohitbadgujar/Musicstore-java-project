@@ -1,0 +1,30 @@
+INSERT INTO USERDATA(EMAIL,PASSWORD,FNAME,LNAME,USERTYPE)
+VALUES('admin@admin.com', 'mypassword', 'System', 'Administrator','ADMIN');
+
+INSERT INTO USERDATA(EMAIL,PASSWORD,FNAME,LNAME,USERTYPE)
+VALUES('user1@user.com', 'mypassword', 'General1', 'User','GENUSER');
+
+INSERT INTO USERDATA(EMAIL,PASSWORD,FNAME,LNAME,USERTYPE)
+VALUES('user2@user.com', 'mypassword', 'General2', 'User','GENUSER');
+
+INSERT INTO ALBUM(NAME,GENRE,ARTIST_NAME,LONG_DESCRIPTION)
+VALUES('Best hits of the 90's', 'Pop', 'Spinal Tap', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu ultrices vitae auctor eu. Fringilla ut morbi tincidunt augue. A diam maecenas sed enim ut sem viverra. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Arcu cursus vitae congue mauris rhoncus aenean. Non nisi est sit amet');
+
+INSERT INTO ALBUM(NAME,GENRE,ARTIST_NAME,LONG_DESCRIPTION)
+VALUES('Best hits of the 80's', 'Rock', 'Spinal Tap', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu ultrices vitae auctor eu. Fringilla ut morbi tincidunt augue. A diam maecenas sed enim ut sem viverra. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Arcu cursus vitae congue mauris rhoncus aenean. Non nisi est sit amet');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
